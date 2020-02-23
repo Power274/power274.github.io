@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.photo img {
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: 450px;
+    background-color: #353a40;
+}
+
+.descr {
+    background: black;
+    color: white;
+}
+
+
+
+.part {
+    width: 50%;
+}
+
+.part:hover{
+    opacity:0.6;
+    cursor:pointer;
+}
+
+.port-item {
+    width: 30%  ;
+}
